@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="choosecolor">color_choose.ico</file>
+        <file alias="stepback">back.png</file>
+        <file alias="blue">blue.ico</file>
+        <file alias="bucket">bucket.png</file>
+        <file alias="cursor_bucket">cursor_bucket.png</file>
+        <file alias="cursor_dropper">cursor_dropper.png</file>
+        <file alias="cursor_eraser">cursor_erase.png</file>
+        <file alias="dropper">dropper.png</file>
+        <file alias="eraser">eraser.png</file>
+        <file alias="fileopen">file_open.png</file>
+        <file alias="filesave">file_save.png</file>
+        <file alias="forward">forward.png</file>
+        <file alias="green">green.ico</file>
+        <file alias="line">line.ico</file>
+        <file alias="pen">pen.png</file>
+        <file alias="red">red.ico</file>
+        <file alias="white">white.ico</file>
+        <file alias="yellow">yellow.ico</file>
+        <file alias="black">black.ico</file>
+        <file alias="circle">circle.png</file>
+        <file alias="ellipse">ellipse.png</file>
+        <file alias="point">point.png</file>
+        <file alias="polygon">polygon.png</file>
+        <file alias="polyline">polyline.png</file>
+        <file alias="rectangle">rectangle.png</file>
+        <file alias="filenew">new_file.png</file>
+        <file alias="frog">frog.png</file>
+        <file>max.png</file>
+        <file>min.png</file>
+        <file>rotate.png</file>
+    </qresource>
+</RCC>
